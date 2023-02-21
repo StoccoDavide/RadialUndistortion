@@ -1,4 +1,4 @@
-# CUDA Radial Undistortion Kernel
+# A CUDA Kernel for Real-Time High Resolution Image Undistortion
 
 In this repository, you can find a simple (and interactive) CUDA C++ kernel for
 radial undistortion correction of images. This code was written in back 2018 
